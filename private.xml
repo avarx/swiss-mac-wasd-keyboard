@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<root>
+    <vkopenurldef>
+        <name>KeyCode::VK_OPEN_URL_APP_Sublime</name>
+        <url type="file">/Applications/Sublime Text.app</url>
+    </vkopenurldef>
+    <vkopenurldef>
+        <name>KeyCode::VK_OPEN_URL_APP_Chrome</name>
+        <url type="file">/Applications/Google Chrome.app</url>
+    </vkopenurldef>
+    <list>
+        <item>
+            <name>Launch Sublime with F13</name>
+            <identifier>private.launch_sublime</identifier>
+            <autogen>__KeyToKey__ KeyCode::F13, KeyCode::VK_OPEN_URL_APP_Sublime</autogen>
+        </item>
+        <item>
+            <name>Launch Chrome with F14</name>
+            <identifier>private.launch_chrome</identifier>
+            <autogen>__KeyToKey__ KeyCode::F14, KeyCode::VK_OPEN_URL_APP_Chrome</autogen>
+        </item>
+        <item>
+            <name>Swap BACKSLASH with BACKQUOTE</name>
+            <identifier>private.swap_BACKSLASH_and_BACKQUOTE</identifier>
+            <autogen>__KeyToKey__ KeyCode::BACKSLASH, KeyCode::BACKQUOTE</autogen>
+            <autogen>__KeyToKey__ KeyCode::BACKQUOTE, KeyCode::BACKSLASH</autogen>
+        </item>
+    </list>
+</root>
