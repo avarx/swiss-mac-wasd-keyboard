@@ -18,6 +18,6 @@ This is a [WASD keyboard](http://www.wasdkeyboards.com/) template with the **Swi
 ![layout](https://raw.githubusercontent.com/avarx/swiss-mac-wasd-keyboard/master/images/layout.png)
 
 ###My keyboard
-![keyboard1](https://raw.githubusercontent.com/avarx/swiss-mac-wasd-keyboard/master/images/keyboard1.png)
+![keyboard1](https://raw.githubusercontent.com/avarx/swiss-mac-wasd-keyboard/master/images/keyboard1.jpg)
 
-![keyboard2](https://raw.githubusercontent.com/avarx/swiss-mac-wasd-keyboard/master/images/keyboard2.png)
+![keyboard2](https://raw.githubusercontent.com/avarx/swiss-mac-wasd-keyboard/master/images/keyboard2.jpg)
